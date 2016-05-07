@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+    //这里做了改动，github你看到了吗？
     private void initData() {
         for (int i = 0; i < 20; i++) {
             list.add(Integer.toString(i));
